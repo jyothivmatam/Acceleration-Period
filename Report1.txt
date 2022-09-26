@@ -1,0 +1,29 @@
+Visual Studio Code:
+Visual Studio is an Advanced Integrated Development Enterprise exclusively developed the Microsoft Corporation in the year 2000. 
+It is actively used to develop Computer programs, Websites, Desktop Applications, Mobile Applications, Games and much more
+ Some popular languages that are supported by Visual Studio are Visual Basics, C-Programming Language, C++ Programming Language, C# Programming Language, Python, JavaScript.
+Visual studio code tools:
+Open Tabs Browser-It enlists all the properties available for classes, objects, web pages.
+Solution Explorer-Solution Explorer manages and browses the files in a solution.
+Team Explorer-Team Explorer Integrates the Axure DevOps Into the VS IDE.
+Data Explorer-Data Explorer manages MS SQL databases and instances.
+Some of shortcuts in visual studio code:
+ Line Comment- Ctrl+/
+ Block Comment-Ctrl+Shift+/
+ Run Config- Ctrl+Shift+Alt+R
+ Run Build- Ctrl+Shift+F5
+ Debug- Alt+F5
+Dot Net :
+NET stands for Network Enabled Technology (Internet). In .NET, dot (.) refers to Object-Oriented, and NET refers to the internet. 
+So, the complete .NET means through Object-Oriented we can implement internet-based applications.
+it is a framework
+.NET is a free, cross-platform, open-source developer platform for building many different types of applications
+Framework:
+A framework is a software. Or you can say a framework is a collection of many small technologies integrated together to develop applications that can be executed anywhere.
+ 
+Dot NET provides BCL and CLR
+BCL-Base class Libraries-Base Class Libraries (BCL) is designed by Microsoft. Without BCL we can’t write any code in .NET. So, BCL is also known as the basic building block of .NET Programs. 
+These are installed into the machine when we installed the .NET framework. BCL contains pre-defined classes and these classes are used for the purpose of application development.
+CLR-common language runtime-CLR stands for Common Language Runtime and it is the core component under the .NET framework 
+which is responsible for converting the MSIL (Microsoft Intermediate Language) code into native code.
+JIT-it stands for the Just-in-Time compiler. It is the component of CLR that is responsible for converting MSIL code into Native Code.
