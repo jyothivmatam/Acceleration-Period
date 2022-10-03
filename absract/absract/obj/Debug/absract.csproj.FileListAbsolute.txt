@@ -1,0 +1,8 @@
+C:\Project\absract\absract\obj\Debug\absract.csproj.AssemblyReference.cache
+C:\Project\absract\absract\obj\Debug\absract.csproj.SuggestedBindingRedirects.cache
+C:\Project\absract\absract\obj\Debug\absract.csproj.CoreCompileInputs.cache
+C:\Project\absract\absract\bin\Debug\absract.exe.config
+C:\Project\absract\absract\bin\Debug\absract.exe
+C:\Project\absract\absract\bin\Debug\absract.pdb
+C:\Project\absract\absract\obj\Debug\absract.exe
+C:\Project\absract\absract\obj\Debug\absract.pdb
