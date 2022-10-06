@@ -1,0 +1,8 @@
+C:\Project\Report6\Report6\bin\Debug\Report6.exe.config
+C:\Project\Report6\Report6\bin\Debug\Report6.exe
+C:\Project\Report6\Report6\bin\Debug\Report6.pdb
+C:\Project\Report6\Report6\obj\Debug\Report6.csproj.AssemblyReference.cache
+C:\Project\Report6\Report6\obj\Debug\Report6.csproj.SuggestedBindingRedirects.cache
+C:\Project\Report6\Report6\obj\Debug\Report6.csproj.CoreCompileInputs.cache
+C:\Project\Report6\Report6\obj\Debug\Report6.exe
+C:\Project\Report6\Report6\obj\Debug\Report6.pdb
