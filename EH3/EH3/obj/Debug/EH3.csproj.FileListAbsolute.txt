@@ -1,0 +1,8 @@
+C:\Project\EH3\EH3\bin\Debug\EH3.exe.config
+C:\Project\EH3\EH3\bin\Debug\EH3.exe
+C:\Project\EH3\EH3\bin\Debug\EH3.pdb
+C:\Project\EH3\EH3\obj\Debug\EH3.csproj.AssemblyReference.cache
+C:\Project\EH3\EH3\obj\Debug\EH3.csproj.SuggestedBindingRedirects.cache
+C:\Project\EH3\EH3\obj\Debug\EH3.csproj.CoreCompileInputs.cache
+C:\Project\EH3\EH3\obj\Debug\EH3.exe
+C:\Project\EH3\EH3\obj\Debug\EH3.pdb

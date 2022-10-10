@@ -1,0 +1,8 @@
+C:\Project\EH2\EH2\bin\Debug\EH2.exe.config
+C:\Project\EH2\EH2\bin\Debug\EH2.exe
+C:\Project\EH2\EH2\bin\Debug\EH2.pdb
+C:\Project\EH2\EH2\obj\Debug\EH2.csproj.AssemblyReference.cache
+C:\Project\EH2\EH2\obj\Debug\EH2.csproj.SuggestedBindingRedirects.cache
+C:\Project\EH2\EH2\obj\Debug\EH2.csproj.CoreCompileInputs.cache
+C:\Project\EH2\EH2\obj\Debug\EH2.exe
+C:\Project\EH2\EH2\obj\Debug\EH2.pdb
