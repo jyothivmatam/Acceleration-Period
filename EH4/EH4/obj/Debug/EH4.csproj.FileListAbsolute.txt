@@ -1,0 +1,8 @@
+C:\Project\EH4\EH4\bin\Debug\EH4.exe.config
+C:\Project\EH4\EH4\bin\Debug\EH4.exe
+C:\Project\EH4\EH4\bin\Debug\EH4.pdb
+C:\Project\EH4\EH4\obj\Debug\EH4.csproj.AssemblyReference.cache
+C:\Project\EH4\EH4\obj\Debug\EH4.csproj.SuggestedBindingRedirects.cache
+C:\Project\EH4\EH4\obj\Debug\EH4.csproj.CoreCompileInputs.cache
+C:\Project\EH4\EH4\obj\Debug\EH4.exe
+C:\Project\EH4\EH4\obj\Debug\EH4.pdb
